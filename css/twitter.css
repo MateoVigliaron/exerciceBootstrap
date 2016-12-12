@@ -1,0 +1,87 @@
+body { 
+
+    margin:0;
+
+    padding:0;
+
+    background: url(https://abs.twimg.com/b/front_page/v1/EU_1.jpg) no-repeat center fixed; 
+
+    -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+
+    background-size: cover; /* version standardisée */
+
+}
+
+
+.menuheader {
+background-color: white;
+font-size: 12px;
+display: inline-block;
+height: 41px;  
+padding: 20px;
+}
+
+.menuheader:hover {
+background-color: white;
+font-size: 12px;
+border-bottom: 4px;
+}
+
+.header {
+background-color: white;
+height: 46px;
+}
+
+.imageheader {
+width: 20px;
+height: 20px;
+}
+
+
+.center {
+text-align: center;
+}
+
+section {
+color: white;
+margin-bottom: 80px;
+}
+
+.white {
+color: white;
+}
+
+span {
+color: #3498DB;
+}
+
+.login {
+background-color: gold;
+border-radius: 5px;
+float: right;
+}
+
+.blocdubas {
+background-color: white;
+width: 20%;
+border-radius: 5px;
+margin-top: 15px;
+margin-left: 95px;
+}
+
+.blocduhaut {
+background-color: white;
+border-radius: 5px;
+margin-top: 5px;
+width: 20%;
+}
+
+.row {
+color: black;
+}
+
+.password {
+width: 35%;
+}
+
+
