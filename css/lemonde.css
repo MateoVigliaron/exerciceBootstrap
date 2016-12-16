@@ -71,6 +71,7 @@
 
 header {
    min-height:25px;
+   background-color: white;
 }
 
 .row2 {
@@ -194,3 +195,226 @@ header {
     margin-right: 5px;
 
 }
+
+
+img {
+    display: block;
+    width: 260px;
+    height: 70px;
+    margin: 13px auto 5px;
+}
+
+
+.btn3 {
+    display: block;
+    width: 12%;
+    height: 40px;
+    margin: -18px auto 0px;
+    font-size: 10px;
+    border: none;
+    background-color: white;
+    color: grey;
+    margin-left: 570px;
+}
+
+.caret {
+    margin-right: 10px;
+}
+
+.button3 {
+    background-color: white;
+    border: none;
+    color: black;
+    height: 100%;
+    font-size: 11px;
+    border-left: 1px solid #626a72;
+    border-top: none;
+    margin-left: 10px;
+}
+
+#nav.acceuil {
+    border-top: 3px solid #D2D6DB;
+}
+
+.conteneur_bordure {
+    width: 100%;
+    margin: -3px auto 0px;
+    border-top: 3px solid #D2D6DB;
+    font-size: 1.3rem;
+    line-height: 140%;
+    font-family: Helvetica,Arial,FreeSans,sans-serif;
+    color: #16212c;
+    padding-left: 210px;
+    border-bottom: 1px solid #D2D6DB;   
+    height: 32px;
+}
+
+ul {
+    width: 998px;
+    display: inline-block;
+    margin-top: -3px;
+    overflow: hidden;
+    width: 1000px;
+    margin: -3px auto 0;
+    padding: 0;
+    list-style-type: none;
+    box-sizing: border-box;
+    font-size: 1.3rem;
+    line-height: 140%;
+    font-family: Helvetica,Arial,FreeSans,sans-serif;
+    color: #16212c;
+}
+
+#nav ul {
+    padding: 0;
+}
+
+#nav li {
+    display: block;
+    float: left;
+    border-top-width: 3px;
+    border-top-style: solid;
+    text-align: center;
+    margin-right: 2px;
+    box-sizing: border-box;
+    height: 100%;
+    border-left: 1px solid #D2D6DB;
+    padding: 5px;
+}
+
+.accueil {
+    border-top-color: #A2A9AE;
+    font-weight: bold;
+}
+
+.international {
+    border-top-color: #0386C3;
+    font-weight: bold;
+}
+
+.poitique {
+    border-top-color: #1F0D67;
+    font-weight: bold;
+}
+
+.societe {
+    border-top-color: #D50303;
+    font-weight: bold;
+}
+
+.eco {
+    border-top-color: #FE2F2F;
+    font-weight: bold;
+}
+
+.culture {
+    border-top-color: #F20559;
+    font-weight: bold;
+}
+
+.idees {
+    border-top-color: #2E3942;
+    font-weight: bold;
+}
+
+.planete {
+    border-top-color: #30932E;
+    font-weight: bold;
+}
+
+.sport {
+    border-top-color: #6FAA12;
+    font-weight: bold;
+}
+
+.sciences {
+    border-top-color: #0CB4AE;
+    font-weight: bold;
+}
+
+.pixel {
+    border-top-color: #06B586;
+    font-weight: bold;
+}
+
+.campus {
+    border-top-color: #FF6E17;
+    font-weight: bold;
+}
+
+.le_mag {
+    border-top-color: #2E3942;
+    font-weight: bold;
+}
+
+.abonnes {
+    border-top-color: #CCAA00;
+    background-color: #FFC600;
+    font-weight: bold;
+}
+
+#iconehome {
+    display: block;
+    width: 12px;
+    height: 15px;
+    margin-top: 0px;
+}
+
+
+html, body {
+    background-color: #E9EDF0
+}
+
+#pub {
+    font-size: 1.3rem;
+    line-height: 140%;
+}
+
+#en_ce_moment {
+    height: 33px;
+    margin-top: 16px;
+    overflow: hidden;
+    background: #2d3143;
+    background: linear-gradient(#2d3143, #10141d);
+    width: 990px;
+    display: inline-block;
+}
+
+.conteneur_haut {
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+    padding-bottom: 3px;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1.3rem;
+    line-height: 140%;
+    font-family: Helvetica,Arial,FreeSans,sans-serif;
+    color: #16212c;
+    margin-left: 210px;
+}
+
+#en_ce_moment ul {
+    padding: 0 13px 0 0;
+    list-style-type: none;
+    width: 990px;
+    display: inline-block;
+    margin-top: -3px;
+    overflow: hidden;
+    width: 1000px;
+    margin: -3px auto 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1.3rem;
+    line-height: 140%;
+    font-family: Helvetica,Arial,FreeSans,sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+li.en_ce_moment {
+    background: url("../images/sous_nav.png") no-repeat right -70px;
+    padding: 0 13px 0 5px;
+    line-height: 36px;
+}
+
