@@ -418,3 +418,52 @@ li.en_ce_moment {
     line-height: 36px;
 }
 
+.second {
+    font-size: 13px;
+    margin-right: 5px;
+}
+
+.une {
+    padding: 20px 0 10px;
+    background-color: white;
+    box-shadow: 0 6px 6px -6px rgba(22,33,44,0.2);
+    margin-bottom: 20px;
+    overflow: hidden;
+    width: 990px;
+    margin: 0 auto;
+    z-index: 1;
+    margin: -3px auto 0;
+    margin-left: 210px;
+    height: 1918px;
+}
+
+.container_18 {
+    display: block;
+    margin: 0 13px;
+    width: 97.4%;
+    box-sizing: border-box;
+    font-size: 1.3rem;
+    line-height: 140%;
+}
+
+h1 {
+    color: #003366;
+    float: left;
+    margin-left: -200px;
+}
+
+#content {
+    width: 1000px;
+    height: 1930px;
+    background-color: white;
+    margin-left: 190px;
+}
+
+
+.imageprincipale {
+    width: 95%;
+    float: left;
+    height: 322px;
+    margin-left: -200px; 
+}
+
