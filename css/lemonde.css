@@ -450,7 +450,7 @@ h1 {
     color: #003366;
     float: left;
     margin-left: -200px;
-}
+    font-size: 26px;}
 
 #content {
     width: 1000px;
@@ -461,9 +461,62 @@ h1 {
 
 
 .imageprincipale {
-    width: 95%;
+    width: 560px;
     float: left;
     height: 322px;
     margin-left: -200px; 
 }
 
+.blocdroit {
+    height: 265px;
+    margin: 0 0 25px;
+    border: solid #eef1f5;
+    border-width: 0 1px 1px;
+    background: #fafbfc;
+    overflow: hidden;
+    width: 372px;
+}
+
+.entete {
+    border: 0;
+    padding: 0 15px;
+    background: #d50303;
+    color: #fff;
+    line-height: 25px;
+    font-size: 16px; 
+    font-weight: bold;
+}   
+
+h3 {
+    margin-top: 0px;
+}
+
+.heure {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    box-sizing: border-box;
+    margin-left: 10px;
+    
+}
+
+.mots {
+    margin-bottom: 8px;
+    color: #003366;
+    font-size: 13px;
+}
+
+.minifooter {
+    height: 25px;
+    padding: 4px 15px 0;
+    text-align: left;
+    background: #eef1f5;
+}
+
+.tte {
+    font-size: 12px;
+    font-weight: bold;
+    color: #003366;
+    padding-top: 0px;
+}
